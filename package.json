@@ -1,0 +1,19 @@
+{
+  "name": "csb-gpu",
+  "version": "1.0.0",
+  "description": "Coders Strike Back Simulator on GPU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emnh/csb-gpu.git"
+  },
+  "author": "Eivind Magnus Hvidevold <hvidevold@gmail.com>",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/emnh/csb-gpu/issues"
+  },
+  "homepage": "https://github.com/emnh/csb-gpu#readme"
+}
