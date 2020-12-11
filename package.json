@@ -4,6 +4,8 @@
   "description": "Coders Strike Back Simulator on GPU",
   "main": "index.js",
   "scripts": {
+    "dev": "webpack-dev-server --hot",
+    "webpack": "webpack -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/emnh/csb-gpu/issues"
   },
-  "homepage": "https://github.com/emnh/csb-gpu#readme"
+  "homepage": "https://github.com/emnh/csb-gpu#readme",
+  "dependencies": {
+    "gpu.js": "^2.10.6",
+    "jquery": "^3.5.1",
+    "three": "^0.123.0",
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
 }
