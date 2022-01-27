@@ -23,7 +23,7 @@
     "gpu.js": "^2.10.6",
     "jquery": "^3.5.1",
     "pixi.js": "^5.3.3",
-    "three": "^0.123.0",
+    "three": "^0.137.0",
     "webpack": "^5.10.1",
     "webpack-cli": "^4.2.0",
     "webpack-dev-server": "^3.11.0",
